@@ -1,0 +1,151 @@
+# Topics of Machine Lerning
+-----------------------------------------------------------------------------------------------------------------------------------------------
+-> What is Machine Learning?
+-> AI vs ML vs Deep Learning
+-> How does Machine Learning works?
+-> Types of Machine Learning
+-> Supervised Learning
+-> Supervised Learning Examples
+-> Unsupervised Learning
+-> Unsupervised Learning Examples
+-> Reinforcement Learning
+-> Reinforcement Learning Examples
+-> AI vs Machine Learning vs Deep Learning
+-> Examples of AI
+-> Examples of Machine Learning
+-> What is Deep Learning?
+-> Example of Deep Learning
+-> Machine Learning vs Deep Learning
+-> Jupyter Notebook Tutorial
+-> Installation
+-> Machine Learning Tutorial
+-> Classification Algorithm
+-> Anomaly Detection Algorithm
+-> Clustering Algorithm
+-> Regression Algorithm
+-> Demo: Iris Dataset
+-> Stats & Probability for Machine Learning
+-> Categories of Data
+-> Qualitative Data
+-> Quantitative Data 
+-> What is Statistics?
+-> Statistics Terminologies
+-> Sampling Techniques
+-> Random Sampling
+-> Systematic Sampling
+-> Stratified Sampling
+-> Types of Statistics
+-> Descriptive Statistics
+-> Measures of Spread
+-> Information Gain & Entropy
+-> Confusion Matrix
+-> Probability
+-> Probability Terminologies
+-> Types of Events
+-> Probability of Distribution
+-> Types of Probability
+-> Marginal Probability
+-> Joint Probability
+-> Conditional Probability
+-> Use-Case
+-> Bayes Theorem
+-> Inferential Statistics
+-> Point Estimation
+-> Interval Estimate
+-> Margin of Error
+-> Hypothesis Testing
+-> Supervised Learning Algorithms
+-> Regression
+-> Linear vs Logistic Regression
+-> Understanding Linear Regression Algorithm
+-> Logistic Regression Curve
+-> Titanic Data Analysis
+-> Decision Tree
+-> what is Classification?
+-> Types of Classification
+-> Decision Tree
+-> Decision Tree Terminologies
+-> Entropy
+-> Credit Risk Detection Use-case
+-> Random Forest
+-> Random Forest Use-Cases
+-> Random Forest Algorithm
+-> KNN Algorithm
+-> KNN Algorithm Working
+-> KNN Demo
+-> Naive Bayes
+-> Naive Bayes Working-> Industrial Use of Naive Bayes
+-> Types of Naive Bayes
+-> Steps involved in Naive Bayes
+-> PIMA Diabetic Test Use Case
+-> Support Vector Machine
+-> Non-Linear SVM
+-> SVM Use-case
+-> k Means Clustering & Association Rule Mining  
+-> Types of Clustering
+-> K-Means Clustering
+-> K-Means Working
+-> Pros & Cons of K-Means Clustering
+-> K-Means Demo
+-> Hirechial Clustering
+-> Association Rule Mining
+-> Apriori Algorithm
+-> Apriori Algorithm Demo
+-> Reinforcement Learning
+-> Reinforcement Learning: Counter-Strike Example
+-> Markov's Decision Process
+-> Q-Learning
+-> The Bellman Equation
+-> Transitioning to Q-Learning
+-> Implementing Q-Learning 
+-> Machine Learning Projects
+-> Who is a ML Engineer?
+-> ML Engineer Job Trends
+-> ML Engineer Salary Trends
+-> ML Engineer Skills
+-> ML Engineer Job Description
+-> ML Engineer Resume
+-> Machine Learning Interview Questions
+--------------------------------------------------------------------------------------------------------------------------------------------
+-> What is Machine Learning?
+-> Machine Learning is a subset of artificial intelligence. it focues mainly on the designing systems, there by allowing them to lern and make      predictions based on some experience which in data is case of machines.
+    -> Artificial Intelligence : A Technique which enables machines to mimic human behaviour.
+    -> Machine Lerning : Machine Learning is subset of AI technique which is use staticals methods to enable machines to improve with experience.
+    -> Deep Learning : It is a subset of ML which make the computation of multi-layer neural network feasible.
+
+-> Types of Machine Learning : 
+    1. Supervised Learning
+    2. Unsupervised Learning
+    3. Reinforcement Learning
+
+1. Supervised Learning: 
+    ex : Supervised Algorithms is used in Cortana application in windows, Weather applications, Biometric applications, Banking sector, Medical sector, Retail sector etc.
+
+    Supervised Lerning Algorithms:
+    1. Linear Regression Algorithm
+    2. Random Forest Algorithm
+    3. Support Vector Machines Algorithm
+
+2. Unsupervised Learning: 
+
+    Unsupervised Learning Algorithms:
+    1. Apriori Algorithm
+    2. K-Means Algorithm
+    3. Hirechial Algorithm
+
+
+###############
+math(Numpy, Theano, Scipy)
+
+numpy is use mostly create arry
+[i for in dir(np) if 'arr' in i]
+
+tools : SAS, tabule, app dynamic, graphan, data briks
+
+Data visualization py-lib: awaborn, matplatlib, glpot, plotly 
+
+
+Text processing
+image processing
+adio processing
+
